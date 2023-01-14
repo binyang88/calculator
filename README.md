@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://binyang88.visualstudio.com/binyang88/_apis/build/status/binyang88.calculator?branchName=master)](https://binyang88.visualstudio.com/binyang88/_build/latest?definitionId=20&branchName=master)
